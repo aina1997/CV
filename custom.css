@@ -1,0 +1,58 @@
+
+body {
+    height:297mm;
+    width:210mm;
+}
+
+.all{
+    padding: 3%;
+}
+
+header {
+    background-color: #3E4245;
+    color: white;
+    height: 30vh;
+    width: 100%;
+    padding: 15% 5% 5% 34%;
+    
+}
+
+aside {
+    background-color: #F4DBDE; 
+    margin-top: -30vh;
+    
+}
+
+main {
+    color: black;
+    
+
+}
+
+footer{
+    background-color: #3E4245;
+    color: white;
+    height: 30vh;
+    width: 100%;
+    
+    padding: 12% 5% 5% 34%;
+    margin-top: -25%;
+    text-align: center;
+
+}
+
+.imatge{
+    width: 100%;
+    
+}
+
+ul{
+    list-style-type:none;
+}
+
+li p {
+    margin: 0;
+    padding: 0;
+}
+
+
